@@ -1,2 +1,3 @@
 # simpleStorage
-First attempt at smart contract and installin Remix Solidity on VSCode
+"File for first attempt at smart contract and installing Remix Solidity on VSCode"
+"Created storage file"
