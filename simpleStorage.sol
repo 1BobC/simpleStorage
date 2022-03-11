@@ -1,6 +1,8 @@
 //first go at a smart contract!
 // SPDX-License-Identifier: MIT
 
+//Search compile deploy and run solidity transactions in vscode
+
 pragma solidity >=0.6.0 <0.9.0;
 
 contract SimpleStorage {
