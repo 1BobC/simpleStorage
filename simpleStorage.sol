@@ -1,5 +1,5 @@
 //first go at a smart contract!
-//also first go at vscode direct to git update!
+also first go at vscode direct to git update!
 
 //Search compile deploy and run solidity transactions in vscode
 
