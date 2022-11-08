@@ -5,3 +5,4 @@
 "Reached 1:37:04 and placed full code in file and downloaded Solidity extension"
 "At 1:56:59 and will continue for explanations BUT will create NEW project using Nethereum Documentation which shows how to do it in VSCode!!! See NethereumCodeGenDemo"
 "Find Remix online in Solidity documentation Follow Pat's video and Solidity / Remix IDE explanation"
+"2:02:00store person and favourite number,retreive the favourite number of a person - works ok in Remix"
